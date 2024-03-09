@@ -5,19 +5,7 @@ function About() {
   return (
     <div className="App">
    
-      <header> 
-              <div className="logo">
-                <img src="EVS logo.png" alt="E-Voting System Logo"/>
-              </div>
-
-          <nav>
-              <ul>
-                  <li><a href="home1.html">Home</a></li>
-                  <li><a href="Contact.html">Contact </a></li>
-                  <li><a href="#">About Us</a></li>
-              </ul>
-          </nav>
-     </header>
+      
      <main>
            <div class="newimg">
               <img src="Voting.png" alt="E-Voting System Logo"/>
