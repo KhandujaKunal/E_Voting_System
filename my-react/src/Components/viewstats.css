@@ -1,11 +1,10 @@
 
 .result {
   display: flex;
-  /* margin:10px; */
  margin-top: -420px;
  margin-left: 250px;
  text-align: center;
- /* border: 2px solid black; */
+
 }
 .resultoption1{
   height:150px;
